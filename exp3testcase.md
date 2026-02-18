@@ -114,3 +114,4 @@ plt.show()
 <img width="278" height="429" alt="image" src="https://github.com/user-attachments/assets/1bbe4d9d-f679-4e33-9025-317ecd2a64bc" />
 <img width="272" height="419" alt="image" src="https://github.com/user-attachments/assets/0cafd02b-d7bf-4af2-ac51-6329e59d8120" />
 
+<img width="1590" height="734" alt="image" src="https://github.com/user-attachments/assets/379be5de-fc6e-400e-8b9d-ad2c1d78c69e" />
